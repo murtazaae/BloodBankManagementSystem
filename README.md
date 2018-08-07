@@ -6,22 +6,24 @@ I have made this application using ASP.NET Core MVC. For Admin panel, I have use
 The best thing in this application is, I have used Onion Architecture, which was the difficult part of this app.
 
 Please find the screenshot below. 
-
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png
+Dashboard: 
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png)](#features)
 
 Events:
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png)](#features)
 
 Manage Donors:
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/donors.png
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/donors.png)](#features)
 
 
-Manage Blood Collection:
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/bloodCollection.png
 
 Manage Blood Collection:
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/AddBloodCollection.png
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/bloodCollection.png)](#features)
+
+Manage Blood Collection:
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/AddBloodCollection.png)](#features)
 
 
 Manage Blood Groups:
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/BloodGroups.png
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/BloodGroups.png)](#features)
+
