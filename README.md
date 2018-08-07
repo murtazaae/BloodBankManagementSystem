@@ -7,4 +7,22 @@ The best thing in this application is, I have used Onion Architecture, which was
 
 Please find the screenshot below. 
 
-https://github.com/murtazaae/BloodBankManagementSystem/blob/master/blood-donor-match.png
+Dashboard:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png
+
+Events:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png
+
+Manage Donors:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/donors.png
+
+
+Manage Blood Collection:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/bloodCollection.png
+
+Manage Blood Collection:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/AddBloodCollection.png
+
+
+Manage Blood Groups:
+https://github.com/murtazaae/BloodBankManagementSystem/blob/master/BloodGroups.png
