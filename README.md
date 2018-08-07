@@ -7,23 +7,23 @@ The best thing in this application is, I have used Onion Architecture, which was
 
 Please find the screenshot below. 
 Dashboard: 
-[![solarized vim](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png)](#features)
+[![solarized vim](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png)](#Dashboard #ASP.NET Core MVC Onion Architecture)
 
 Events:
-[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png)](#features)
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png)](#Events #ASP.NET Core MVC Onion Architecture)
 
 Manage Donors:
-[![solarized palette](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/donors.png)](#features)
+[![solarized palette](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/donors.png)](#Manage Donors #ASP.NET Core MVC Onion Architecture)
 
 
 
 Manage Blood Collection:
-[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/bloodCollection.png)](#features)
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/bloodCollection.png)](#Manage Blood Collection #ASP.NET Core MVC Onion Architecture)
 
-Manage Blood Collection:
-[![solarized palette](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/AddBloodCollection.png)](#features)
+Add Blood Collection:
+[![solarized palette](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/AddBloodCollection.png)](#Add Blood Collection #ASP.NET Core MVC Onion Architecture)
 
 
 Manage Blood Groups:
-[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/BloodGroups.png)](#features)
+[![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/BloodGroups.png)](#Manage Blood Groups #ASP.NET Core MVC Onion Architecture)
 
