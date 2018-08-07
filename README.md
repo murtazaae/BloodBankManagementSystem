@@ -7,7 +7,6 @@ The best thing in this application is, I have used Onion Architecture, which was
 
 Please find the screenshot below. 
 
-Dashboard:
 https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png
 
 Events:
