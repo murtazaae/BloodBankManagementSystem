@@ -7,7 +7,7 @@ The best thing in this application is, I have used Onion Architecture, which was
 
 Please find the screenshot below. 
 Dashboard: 
-[![solarized vim](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png)](#Dashboard #ASP.NET Core MVC Onion Architecture)
+[![solarized vim](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/Dashboard.png)](#Dashboard) (#ASP.NET Core MVC Onion Architecture)
 
 Events:
 [![solarized dualmode](https://github.com/murtazaae/BloodBankManagementSystem/blob/master/events.png)](#Events #ASP.NET Core MVC Onion Architecture)
